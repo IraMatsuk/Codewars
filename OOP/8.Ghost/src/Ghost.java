@@ -2,7 +2,6 @@ import java.util.Random;
 
 public class Ghost {
 	public Ghost() {
-
 	}
 	
 	public String getColor() {
