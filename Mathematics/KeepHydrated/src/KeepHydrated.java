@@ -3,3 +3,4 @@ public class KeepHydrated {
 		return (int) Math.floor(time * 0.5);
 	}
 }
+
